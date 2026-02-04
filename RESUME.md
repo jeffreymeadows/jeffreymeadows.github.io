@@ -196,59 +196,59 @@ HP Proliant, HP C7000 Blade Enclosure, Integrity and Xeon HP blades, Cisco Blade
 
 ## Education
 
-## Space Systems Equipment Specialist Apprentice
+### Space Systems Equipment Specialist Apprentice
 *Lowry Air Force Base, CO*
 *1992 - 1993*
 
-## Space Systems Equipment Specialist Journeyman
+### Space Systems Equipment Specialist Journeyman
 *Buckley Space Force Base, CO*
 *1993 - 1994*
 
-## Satellite Readout Station Upgrade Maintenance
+### Satellite Readout Station Upgrade Maintenance
 *IBM, Boulder, CO*
 *1994 - 1994*
 
-## Mark IV B Meteorological Data Station Operations and Maintenance
+### Mark IV B Meteorological Data Station Operations and Maintenance
 *Keesler Air Force Base, MS*
 *1997 - 1997*
 
-## Introduction to POSIX/UNIX
+### Introduction to POSIX/UNIX
 *Keesler Air Force Base, MS*
 *1997 - 1997*
 
-## Air Force Technical Order System
+### Air Force Technical Order System
 *Elmendorf Air Force Base, AK*
 *1998 - 1998*
 
-## Clear Case Overview Training
+### Clear Case Overview Training
 *HP, Ft. Collins, CO*
 *2003 - 2003*
 
-## Oracle Application Server Admin 1 Training
+### Oracle Application Server Admin 1 Training
 *Oracle, Colorado Springs, CO*
 *2008 - 2008*
 
-## HP Integrity Virtualization Training
+### HP Integrity Virtualization Training
 *HP Virtual Classroom*
 *2010 - 2010*
 
-## HP Blade Enclosure Administration Training
+### HP Blade Enclosure Administration Training
 *HP Virtual Classroom*
 *2010 - 2010*
 
-## HP Advanced Linux for Solaris and HP-UX Administrators training
+### HP Advanced Linux for Solaris and HP-UX Administrators training
 *HP Virtual Classroom*
 *2011 - 2011*
 
-## Oracle WebLogic 11G Admin 1 Training
+### Oracle WebLogic 11G Admin 1 Training
 *Oracle Online Training*
 *2012 - 2012*
 
-## Puppet Enterprise Practitioner Instructor Lead
+### Puppet Enterprise Practitioner Instructor Lead
 *Puppet Enterprise Online Classroom*
 *2017 - 2017*
 
-## Puppet Enterprise Advanced Developer Instructor Lead
+### Puppet Enterprise Advanced Developer Instructor Lead
 *Puppet Enterprise Online Classroom*
 *2018 - 2018*
 
