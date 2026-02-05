@@ -2,6 +2,7 @@
 Infrastructure Engineer
 | [mrmrsm3@gmail.com](mailto:mrmrsm3@gmail.com)
 | [816 431 6956](tel:8164316956)
+| [Document Download](https://jeffreymeadows.github.io/Jeffrey.w.meadows.docx)
 
 ## About me
 Logically driven person with a very long technical history in a variety of areas in datacenter infrastructure.
